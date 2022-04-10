@@ -2,8 +2,8 @@ This is the first file in new FirstRepo
 
 Making changes to the first file
 
-This is the new line added to check the rebase functionality when wrong commit had been done
-
 Checking the revert command on the repo
+
+
 
 
