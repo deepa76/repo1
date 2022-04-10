@@ -1,3 +1,0 @@
-This is the wrong commit file and wanted to keep the changes done in file master and master2.
-
-Git should discard this file when pushed to repo as it is reset back and commited only on the client 

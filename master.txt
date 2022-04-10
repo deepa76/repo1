@@ -2,8 +2,11 @@ This is the first file in new FirstRepo
 
 Making changes to the first file
 
+<<<<<<< HEAD
 Checking the revert command on the repo
 
 
 
 
+=======
+>>>>>>> parent of 2804522 (added master4.txt)
