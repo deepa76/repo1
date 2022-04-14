@@ -1,0 +1,1 @@
+This is master file 5 created directory in the GitHub storage. Git is the storage and github is the service tool.
